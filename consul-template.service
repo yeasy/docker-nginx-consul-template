@@ -1,4 +1,4 @@
-i#!/bin/sh
+#!/bin/sh
 
 exec consul-template \
      -consul=consul:8500 \
