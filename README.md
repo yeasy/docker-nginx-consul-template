@@ -4,8 +4,9 @@ Docker images to have nginx and the consul template installed
 
 
 # Supported tags and respective Dockerfile links
+* [`v0.1` (v0.1/Dockerfile)](https://github.com/yeasy/docker-nginx-consul-template/blob/ecb36d054d48d137fb78acf23a590772feb99c24/Dockerfile)
 
-* [`latest` (latest/Dockerfile)](https://github.com/yeasy/docker-nginx-consul-template/blob/master/Dockerfile)
+* [`v0.10, latest` (latest/Dockerfile)](https://github.com/yeasy/docker-nginx-consul-template/blob/master/Dockerfile)
 
 For more information about this image and its history, please see the relevant manifest file in the [`yeasy/docker-nginx-consul-template` GitHub repo](https://github.com/yeasy/docker-nginx-consul-template).
 
